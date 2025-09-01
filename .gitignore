@@ -10,3 +10,5 @@ experiments/*
 
 # Virtual environments
 .venv
+logs/
+
